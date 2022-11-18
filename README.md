@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 😄 Blog
-<a href="https://velog.io/@qwe916>https://velog.io/@qwe916</a>
+https://velog.io/@qwe916
 ⚡ E-mail
-<a href="royqwe16@gmail.com>royqwe16@gmail.com</a>
+royqwe16@gamil.com
