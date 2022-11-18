@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 Blog <br>
+😄 [Blog](https://velog.io/@qwe916) <br>
 https://velog.io/@qwe916
 <br>
-⚡ E-mail <br>
+⚡ [E-mail](royqwe16@gmail.com) <br>
 royqwe16@gamil.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwe916&show_icons=true&theme=radical)
