@@ -1,4 +1,4 @@
-### Hi everyon~ 👋
+### Hi everyone~ 👋
 
 <!--
 **qwe916/qwe916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
