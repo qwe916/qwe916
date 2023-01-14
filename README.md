@@ -20,4 +20,4 @@ https://velog.io/@qwe916
 ⚡ [E-mail](royqwe16@gmail.com) <br>
 royqwe16@gamil.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwe916&show_icons=true&theme=radical)
+
