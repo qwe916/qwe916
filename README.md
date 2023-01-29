@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 https://velog.io/@qwe916
 <br>
 ⚡ [E-mail](royqwe16@gmail.com) <br>
-royqwe16@gamil.com
+royqwe16@gmail.com
 
 
