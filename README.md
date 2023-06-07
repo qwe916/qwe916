@@ -1,23 +1,10 @@
-### Hi everyone~ good👋
+<div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Wellcome&fontSize=90&fontColor=FFFFFF&fontAlign=70&fontAlignY=20)
+<br><h3> ⚡ Feel free to reach me via [E-mail](royqwe16@gmail.com) ⚡</h3><br> 
+# 😄Check out my [Blog](https://velog.io/@qwe916)😄       
 
-<!--
-**qwe916/qwe916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=qwe916)](https://velog.io/@qwe916) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-😄 [Blog](https://velog.io/@qwe916) <br>
-https://velog.io/@qwe916
-<br>
-⚡ [E-mail](royqwe16@gmail.com) <br>
-royqwe16@gmail.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qwe916)](https://github.com/anuraghazra/github-readme-stats)
